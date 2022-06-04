@@ -8,7 +8,7 @@ very new Frontend Developer
 * +48 739 137 252
 * tg: timroadster2004
 * [instagram](https://instagram.com/olegdekh)
-## Briefly About Myself:
+## About Myself:
 I want to learn Frontend Development in RSSchool, because I've always wanted to be able to write code, and RSSchool is the best
 ## Skills and Proficiency:
 * digital marketing: strategies of lounch, funnels, copywriting, etc. in social media
