@@ -15,7 +15,7 @@ I want to learn Front-End Development in RSSchool, because I've always wanted to
 * photo: photography, retouching, etc., Adobe Photoshop, Lightroom
 * video: videography, videoediting, etc., Edius, Adobe Premiere, After Effects
 ## Education
-* 1997 - Civil Engineeringr
+* 1997 - Civil Engineering
 * 1997 - Marketing and Management 
 * 2000-2018 - TV & cinema cources: film directing, screenwriting, journalism, etc
 * 2017 - "Digital Marketer Mastery" specialist: Paid Traffic, Conversion Funnels, Content Marketing
