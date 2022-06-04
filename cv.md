@@ -9,7 +9,7 @@ very new Frontend Developer
 * tg: timroadster2004
 * [instagram](https://instagram.com/olegdekh)
 ## Briefly About Myself:
-I want to learn Front-End Development in RSSchool, because I've always wanted to be able to write code, and RSSchool is the best
+I want to learn Frontend Development in RSSchool, because I've always wanted to be able to write code, and RSSchool is the best
 ## Skills and Proficiency:
 * digital marketing: strategies of lounch, funnels, copywriting, etc. in social media
 * photo: photography, retouching, etc., Adobe Photoshop, Lightroom
