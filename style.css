@@ -1,1 +1,123 @@
+* {
+    box-sizing: border-box;
+    border: 0px solid white
+    }
+    
+    .container {
+        max-width: 1440px;
+        margin: 0 auto;
+    }
+    
 
+    body {
+        font-family: 'Source Serif Pro', serif;
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 1.5;
+
+        min-height: 100vh;
+        margin: 0; 
+        padding: 5px;
+
+        text-decoration: none;
+        
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    
+    .nav-list {
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+    }
+    
+    html {
+        scroll-behavior: smooth; 
+    }
+    
+    a {
+        transition: .3s;
+        color: brown;
+        text-decoration: none;
+        padding: 2px;
+    }
+
+    a:hover {        
+        background-color:  brown;
+        color: #ffffff;        
+    } 
+
+    .nav-list {
+        list-style: none;
+    }
+    .nav-list :hover {
+        color: #ffffff;
+    }
+    
+    .nav-link {
+        padding: 0 20px;
+        line-height: 50px;
+        text-decoration: none;
+        color: rgb(201, 201, 201);
+        font: 16px Nunito;
+        transition: .2s;       
+    }  
+   
+    @media (max-width: 768px) {
+        .nav-link {
+          font:12px Nunito;          
+          padding: 5px;
+          line-height: 10px;          
+        }
+    }
+    
+    .section-title {
+        font: 24px Nunito;
+        text-decoration: none;
+        color:brown
+    }
+
+    .section-main-title {
+        font: 36px Nunito;
+        margin-bottom: -0.5em;
+    }
+    .main-container {
+        display: flex;
+        flex-wrap: wrap;
+    }
+      
+    .section {
+        width: 50%;
+        padding: 30px;        
+    }
+
+    @media (max-width: 768px) {
+        .section {
+          width: 100%;
+          padding: 5px;
+
+        }
+    }
+    
+    .header {
+        background-color: brown;
+    }
+
+    .footer {
+        background-color: brown; 
+        text-align: center;        
+    }
+
+    .footer-title {
+        color: #ffffff;
+    }
+    
+    .link-image {
+        list-style: none;        
+    }
+
+    .link-image :hover {
+        opacity: 80%;
+        zoom: 0.95;     
+    }
