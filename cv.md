@@ -2,7 +2,7 @@
 very new Frontend Developer
 
 
-![Olegdekh](/olegdekh_avatar_thai240.jpg "Oleg Dekh")
+![Olegdekh](.assets/img/olegdekh_avatar_thai240.jpg "Oleg Dekh")
 ## Contact:
 * dekh.by@gmail.com,
 * +48 739 137 252
