@@ -120,5 +120,5 @@
 
     .link-image :hover {
         opacity: 80%;
-        zoom: 0.95;     
+        transform: scale(1.05);        
     }
